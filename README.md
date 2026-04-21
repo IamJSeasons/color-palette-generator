@@ -15,7 +15,7 @@ A simple web app that generates random color palettes for design inspiration.
 ---
 
 ## 🎥 Demo Video
-👉 (https://youtu.be/C49QRQMwWu0?si=7z7lAOtKuPxiEEh0)
+👉 https://youtu.be/C49QRQMwWu0?si=7z7lAOtKuPxiEEh0
 
 ---
 
