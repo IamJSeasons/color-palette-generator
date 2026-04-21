@@ -1,19 +1,39 @@
-# Color Palette Generator 🎨
+# 🎨 Color Palette Generator
 
-## What it does
-A simple web app that generates random color palettes.
+A simple web app that generates random color palettes for design inspiration.
 
-## How to use it
-1. Click the "Generate Colors" button
-2. See new colors appear
-3. Click again for more palettes
+---
 
-## Features
-- Random color generator
-- Click button to refresh colors
-- Simple designer-friendly layout
+## 🌐 Live Project
+👉 https://iamjseasons.github.io/color-palette-generator/
 
-## Built with
+---
+
+## 📁 GitHub Repository
+👉 https://github.com/IamJSeasons/color-palette-generator
+
+---
+
+## 🎥 Demo Video
+👉 (https://youtu.be/C49QRQMwWu0?si=7z7lAOtKuPxiEEh0)
+
+---
+
+## 💡 What it does
+- Generates random color palettes
+- Shows HEX color codes
+- Lets users copy colors by clicking
+
+---
+
+## 🛠 Built With
 - HTML
 - CSS
 - JavaScript
+
+---
+
+## 📚 What I learned
+- How to build interactive web pages
+- How JavaScript works with the DOM
+- How to deploy a website using GitHub Pages
